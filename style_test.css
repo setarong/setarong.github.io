@@ -1,0 +1,40 @@
+html {
+  font-size: 10px;
+  font-family: 'Noto Sans', sans-serif;
+	background-color: #F9BF45;
+}
+
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+p, li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+
+
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #A5DEE4;
+  padding: 0 20px 20px 20px;
+  border: 5px solid white;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #0B346E;
+  text-shadow: 3px 3px 1px #81C7D4;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
