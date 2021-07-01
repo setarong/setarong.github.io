@@ -2,15 +2,11 @@
 
 *20210628-20210630 for test*
 
+### Existing function
+
+- click image to change the image
+
 ### Known Error
-
-#### image no display
-
-the image **えび** need click , it will display , and each click the image it's changeing another image.
-圖片替代文字**えび**，須點擊一次，才會顯示出圖片，之後每此點觸擊將更換圖片
-
-> the mistake doesn't exist in my desktop file test<br>
-> 以上問題於本機測試時未出現
 
 #### need Refresh (F5)
 
