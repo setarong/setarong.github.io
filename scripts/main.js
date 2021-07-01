@@ -1,9 +1,9 @@
 // Image switcher code
 
-let myImage = document.querySelector('img');
+var myImage = document.querySelector('img');
 
 myImage.onclick = function(){
-	let mySrc = myImage.getAttribute('src');
+	var mySrc = myImage.getAttribute('src');
 	if(mySrc === 'images/ebi.jpg')
 	{		 
 		myImage.setAttribute('src','images/20210622_已排版_low.jpg');
